@@ -1,3 +1,9 @@
+
+.box {
+  border-style: solid;
+  border-color: black;
+}
+
 #crystals {
 
 }
@@ -7,5 +13,5 @@
 }
 
 #inComa {
-  
+
 }
